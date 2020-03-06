@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/harishnb/harishnb.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Blog post aobout available UML softwares: 
-<a href=" https://designpatternsimplefied.blogspot.com/2019/10/uml-software-list.html"> Read Here </a>
+<a href="https://designpatternsimplefied.blogspot.com/2019/10/uml-software-list.html">Read Here</a>
 Navigate to page 1: <a href="page1.html">First subpage</a>
 Navigate to page about free website: <a href="https://designpatternsimplefied.blogspot.com/2020/03/how-to-create-free-website.html">Free web page hosting</a>
 
